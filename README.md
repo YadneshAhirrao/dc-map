@@ -35,9 +35,7 @@ The input data should be in CSV format, where each row represents information ab
    ```
 
 4. to get Output
-   ```bash
-   cat output/*
-  ```
+   ` cat output/* `
 
 ### Mapper
 The MaxPopulationMapper class extracts the country name and its corresponding population count from each line of the input CSV file. It emits a key-value pair, where the country name is the key and the population count is the value.

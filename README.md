@@ -35,8 +35,8 @@ The input data should be in CSV format, where each row represents information ab
    ```
 
 4. to get Output
-  ```bash
-  cat output/*
+   ```bash
+   cat output/*
   ```
 
 ### Mapper
